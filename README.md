@@ -1,3 +1,4 @@
+
 # String-Master
 First Assignment
 Welcome to your first coding challenge. In this challenge, you need to complete 10 functions which we will explain later.
